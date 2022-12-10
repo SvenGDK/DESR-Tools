@@ -1,0 +1,27 @@
+OpenPS2Launcher NBD Server and NBD Driver installation
+
+1. Download the latest version of PFS BatchKit Manager and extract it.
+2. Run "!PFS-BatchKit-Manager.bat" as Administrator.
+3. Go to "Advanced menu" -> "HDDManagement" -> "NBD Server"
+4. Choose "Install/Update NBD Driver" (You will be asked to restart the computer to activate test mode - disable SecureBoot in UEFI)
+5. After restarting repeat steps 3. and 4. you will not need to restart your computer this time.
+6. A window should warn you if you want to install the driver confirm install the driver.
+7. After installing the driver go back to your PSX.
+8. In OPL Go to "Settings" -> "Enable Write Operation" -> "ON" select "OK" to save.
+9. Still in OPL Go to "Network Settings" and write down the IP Address.
+10. Now go back to the menu and go to "Start NBD Server" (if it works, the following message should appear NBD Server Running... IP:)
+11. Now In PFS BatchKit Manager go to "Advanced menu" -> "HDDManagement" -> "NBD Server" -> "Mount Device".
+12. Type in the IP address of your PS2 that you wrote down.
+13. If all goes well, your hard drive should be connected to your pc as local hard drive, you can check in "Show list of mounted devices".
+
+Installing a PS2 game on the HDD
+
+1. Copy your .BIN/CUE files to the CD folder OR your .iso/.zso file to the DVD folder
+2. In PFS BatchKit Manager go back to the main menu and select "Transfer PS2 Games".
+3. There will be 5 questions that you can answer with N -> Y -> Y -> N -> N
+4. The game will be transferred to the PSX and can take up to 1-2 hours depending on size.
+
+Displaying the PS2 game on the XMB
+
+1. In PFS BatchKit Manager go to the "Advanced menu" -> "HDD-OSD/PSBBN/XMB" -> "Partitions Management"
+2. Choose "Convert HDL Partition for PSBBN & XMB Menu"
