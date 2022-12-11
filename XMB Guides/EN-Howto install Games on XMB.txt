@@ -1,3 +1,4 @@
+//INCOMPLETE
 OpenPS2Launcher NBD Server and NBD Driver installation
 
 1. Download the latest version of PFS BatchKit Manager and extract it.
