@@ -38,3 +38,12 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | `OPL-Launcher` | v1.0 | https://github.com/ps2homebrew/OPL-Launcher |
 | `ESR` | r10f | ffgriever |
 | `RetroArch` | v1.14 | https://github.com/libretro/RetroArch |
+
+| Tool | Developer |
+| --- | --- |
+| `hdl_dump` | https://github.com/ps2homebrew/hdl-dump |
+| `pfsshell` | https://github.com/ps2homebrew/pfsshell |
+| `cue2pops` | https://github.com/israpps/cue2pops |
+| `iso2opl` | https://github.com/arcadenea/iso2opl |
+| `SCEDoormat_NoME` | https://www.psx-place.com/threads/scedoormat_nome-rel-3-source-code-release-by-krhacken.11381/ |
+| `PAKerUtility` | https://github.com/israpps/PAKerUtility |
