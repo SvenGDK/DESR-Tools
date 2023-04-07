@@ -1,12 +1,14 @@
 # DESR-Tools
 A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrews and other useful stuff.
 
+## Update Discs
 | Updates | Model | Status |
 | --- | --- | --- |
 | `1.31` | DESR-5000-7000-5100-7100 | Available with manual in JP, EN, GER, FR, ES |
 | `2.11` | DESR-5500-7500-5700-7700 | Available with manual in JP, EN, GER, FR, ES |
 
-| XMB Translations | Model | Status |
+## XMB Translations
+| Language | Model | Status |
 | --- | --- | --- |
 | `English` | DESR-5000-7000-5100-7100 | Unavailable |
 | `English` | DESR-5500-7500-5700-7700 | Available again soon |
@@ -15,7 +17,8 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | `Italian` | DESR-5500-7500-5700-7700 | Available soon |
 | `Spanish` | DESR-5500-7500-5700-7700 | Not yet available |
 
-| Manuals | Model | Status |
+## User Manuals
+| Language | Model | Status |
 | --- | --- | --- |
 | `Japanese` | DESR-5000-7000-5100-7100-5700-7700 | Available |
 | `English` | DESR-5000-7000-5100-7100-5700-7700 | Not yet available |
@@ -23,7 +26,8 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | `French` | DESR-5000-7000-5100-7100-5700-7700 | Not yet available |
 | `Spanish` | DESR-5000-7000-5100-7100-5700-7700 | Not yet available |
 
-| Quickstart Guides | Model | Status |
+## Quickstart Guides
+| Language | Model | Status |
 | --- | --- | --- |
 | `Japanese` | DESR-5100-7100-5700-7700 | Available |
 | `English` | DESR-5100-7100-5700-7700 | Available |
@@ -31,6 +35,7 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | `French` | DESR-5100-7100-5700-7700 | Available |
 | `Spanish` | DESR-5100-7100-5700-7700 | Available |
 
+## Homebrew for the PSX
 | Homebrew | Version | Developer |
 | --- | --- | --- |
 | `FMCB` | FMCBinst-1966-[2022-12-09] | https://github.com/israpps/FreeMcBoot-Installer |
@@ -41,8 +46,10 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | `ESR` | r10f | ffgriever |
 | `RetroArch` | v1.14 | https://github.com/libretro/RetroArch |
 
+## Tools for the PSX
 | Tool | Developer |
 | --- | --- |
+| `PSX XMB Manager` | https://github.com/SvenGDK/PSX-XMB-Manager |
 | `hdl_dump` | https://github.com/ps2homebrew/hdl-dump |
 | `pfsshell` | https://github.com/ps2homebrew/pfsshell |
 | `cue2pops` | https://github.com/israpps/cue2pops |
