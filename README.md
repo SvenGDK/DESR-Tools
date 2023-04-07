@@ -9,8 +9,8 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | XMB Translations | Model | Status |
 | --- | --- | --- |
 | `English` | DESR-5000-7000-5100-7100 | Available |
-| `English` | DESR-5500-7500-5700-7700 | Available |
-| `German` | DESR-5500-7500-5700-7700 | Available soon |
+| `English` | DESR-5500-7500-5700-7700 | Available again soon |
+| `German` | DESR-5500-7500-5700-7700 | Available |
 | `French` | DESR-5500-7500-5700-7700 | Available |
 | `Italian` | DESR-5500-7500-5700-7700 | Available soon |
 | `Spanish` | DESR-5500-7500-5700-7700 | Not yet available |
@@ -36,6 +36,8 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | `FMCB` | FMCBinst-1966-[2022-12-09] | https://github.com/israpps/FreeMcBoot-Installer |
 | `Open PS2 Loader` | v1.0.9 | https://github.com/ps2homebrew/Open-PS2-Loader - https://github.com/SvenGDK/Open-PS2-Loader |
 | `OPL-Launcher` | v1.0 | https://github.com/ps2homebrew/OPL-Launcher |
+| `PS2BBL` | Latest-715853a | https://github.com/israpps/PlayStation2-Basic-BootLoader |
+| `KELFBinder` | v1.0.1 | https://github.com/israpps/KELFBinder |
 | `ESR` | r10f | ffgriever |
 | `RetroArch` | v1.14 | https://github.com/libretro/RetroArch |
 
