@@ -14,17 +14,17 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | `English` | DESR-5500-7500-5700-7700 | Available |
 | `German` | DESR-5500-7500-5700-7700 | Available |
 | `French` | DESR-5500-7500-5700-7700 | Available |
-| `Italian` | DESR-5500-7500-5700-7700 | Available soon |
+| `Italian` | DESR-5500-7500-5700-7700 | Not yet available |
 | `Spanish` | DESR-5500-7500-5700-7700 | Not yet available |
 
 ### User Manuals
 | Language | Model | Status |
 | --- | --- | --- |
 | `Japanese` | DESR-5000-7000-5100-7100-5700-7700 | Available |
-| `English` | DESR-5000-7000-5100-7100-5700-7700 | Not yet available |
-| `German` | DESR-5000-7000-5100-7100-5700-7700 | Not yet available |
-| `French` | DESR-5000-7000-5100-7100-5700-7700 | Not yet available |
-| `Spanish` | DESR-5000-7000-5100-7100-5700-7700 | Not yet available |
+| `English` | DESR-5000-7000-5100-7100-5700-7700 | Available |
+| `German` | DESR-5000-7000-5100-7100-5700-7700 | Available |
+| `French` | DESR-5000-7000-5100-7100-5700-7700 | Available |
+| `Spanish` | DESR-5000-7000-5100-7100-5700-7700 | Available |
 
 ### Quickstart Guides
 | Language | Model | Status |
