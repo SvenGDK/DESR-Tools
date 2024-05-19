@@ -42,7 +42,7 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 | `FMCB Installer` | FMCBinst-1966-[2024-05-01] | https://github.com/israpps/FreeMcBoot-Installer |
 | `KELFBinder` | v1.0.1 | https://github.com/israpps/KELFBinder |
 | `MechaPwn` | v3.0rc4 | https://github.com/MechaResearch/MechaPwn
-| `Open PS2 Loader` | v1.0.0-MOD | https://github.com/SvenGDK/Open-PS2-Loader |
+| `OpenPS2Loader-v1-MOD` | v1-MOD-[2024-05-16] | https://github.com/SvenGDK/Open-PS2-Loader |
 | `OPL-Launcher` | v1.0 | https://github.com/ps2homebrew/OPL-Launcher |
 | `PS2BBL` | [21-03-2024]-[4a76f7e] | https://github.com/israpps/PlayStation2-Basic-BootLoader |
 | `PS2Ident` | Latest build-ca2b5acc | https://github.com/ps2homebrew/PS2Ident
