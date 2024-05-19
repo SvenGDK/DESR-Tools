@@ -38,13 +38,17 @@ A new repo for the PSX DESR consoles, containing manuals, infos, tools, homebrew
 ### Homebrew for the PSX
 | Homebrew | Version | Developer |
 | --- | --- | --- |
-| `FMCB` | FMCBinst-1966-[2022-12-09] | https://github.com/israpps/FreeMcBoot-Installer |
-| `Open PS2 Loader` | v1.0.9 | https://github.com/ps2homebrew/Open-PS2-Loader - https://github.com/SvenGDK/Open-PS2-Loader |
+| `ESR` | r10f | ffgriever | https://www.psx-place.com/threads/esr.30217/
+| `FMCB Installer` | FMCBinst-1966-[2024-05-01] | https://github.com/israpps/FreeMcBoot-Installer |
+| `KELFBinder` | v1.0.1 | https://github.com/israpps/KELFBinder |
+| `MechaPwn` | v3.0rc4 | https://github.com/MechaResearch/MechaPwn
+| `Open PS2 Loader` | v1.0.0-MOD | https://github.com/SvenGDK/Open-PS2-Loader |
 | `OPL-Launcher` | v1.0 | https://github.com/ps2homebrew/OPL-Launcher |
 | `PS2BBL` | Latest-715853a | https://github.com/israpps/PlayStation2-Basic-BootLoader |
-| `KELFBinder` | v1.0.1 | https://github.com/israpps/KELFBinder |
-| `ESR` | r10f | ffgriever |
+| `PS2Ident` | Latest-715853a | https://github.com/ps2homebrew/PS2Ident
 | `RetroArch` | v1.14 | https://github.com/libretro/RetroArch |
+| `wLaunchELF_kHn` | v4.43a | https://www.psx-place.com/threads/wlaunchelf-v4-43a-new-improvements-to-this-very-functional-file-manager.13759/
+| `wLaunchELF_ISR` | wLaunchELF-ISR-Complete-[2024-10-23] | https://github.com/israpps/wLaunchELF_ISR
 
 ### Tools for the PSX
 | Tool | Developer |
