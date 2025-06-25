@@ -1,0 +1,30 @@
+Ce processus nécessite une autre PS2/PSX modifiée exécutant FMCB ou vous devez installer FMCB avec l'adaptateur de carte mémoire PS3.
+
+wLaunchELF est également inclus dans ce guide car la PSX démarre sur le XMB normal lorsque FMCB est installé sans aucune autre application ou configuration.
+
+1. Téléchargez le dernier programme d'installation FMCB et wLaunchELF à partir du dépôt (FMCBinst-1965.7z + wLaunchELF.7z)
+2. Extrayez les fichiers et copiez le dossier extrait avec le fichier "wLaunchELF.ELF" sur un lecteur USB externe formaté en FAT32 (partition MBR, pas GPT)
+3. Branchez votre clé USB sur votre console PS2 modifiée.
+4. Démarrez "u/wLaunchELF" sur votre console PS2 modifiée.
+5. Choisissez "File Browser" et sélectionnez votre USB (masse :/)
+6. Démarrez "FMCBInstaller.elf" dans "FMCBinst-1965-[xxxx-xx-xx]"
+7. Appuyez deux fois sur "R1" jusqu'à ce que vous atteigniez le menu pour formater votre carte mémoire et sélectionnez "Formater la carte mémoire".
+8. Sélectionnez la carte mémoire (2) qui doit être formatée pour la PSX et continuez.
+9. Appuyez sur "OK" lorsque vous avez terminé, cela vous ramènera au menu.
+10. Maintenant, appuyez une fois sur "L1" et sélectionnez "Installer pour PSX".
+11. Lorsque l'installation est terminée, vous pouvez fermer le programme d'installation avec l'option "Quitter".
+12. Maintenant, lancez à nouveau "u/wLaunchELF" et copiez "wLaunchELF.ELF" de votre clé USB (mass:/) dans le dossier "BOOT" sur la nouvelle carte mémoire installée (mc1:/BOOT)
+13. Redémarrez la console et chargez le "FMCB Configurator".
+14. Après avoir sélectionné la disposition de vos boutons, sélectionnez "Load CNF from MC1".
+15. Sélectionnez maintenant "Configurer les clés de lancement E1..."
+
+Si vous souhaitez que la console PSX démarre automatiquement dans wLaunchELF :
+16. Appuyez sur le bouton carré sur "Auto" et sélectionnez wLaunchELF.ELF dans le dossier "BOOT" de la nouvelle carte mémoire. (mc1:/BOOT/wLaunchELF.ELF) obtient (mc?:/BOOT/wLaunchELF.ELF) après la sélection.
+17. Maintenant, revenez et sélectionnez "Enregistrer CNF dans MC1".
+18. Insérez la nouvelle carte mémoire dans votre PSX et allumez la console, wLaunchELF devrait maintenant se lancer automatiquement.
+
+Si vous souhaitez définir un bouton pour démarrer dans wLaunchELF :
+16. Sélectionnez n'importe quel bouton de la liste que vous souhaitez configurer pour démarrer wLaunchELF.ELF et appuyez sur le bouton carré.
+17. Sélectionnez maintenant le fichier "wLaunchELF.ELF" dans le dossier "BOOT" de la nouvelle carte mémoire. (mc1:/BOOT/wLaunchELF.ELF)
+18. Maintenant, revenez et sélectionnez "Enregistrer CNF dans MC1".
+19. Insérez la nouvelle carte mémoire dans votre PSX, allumez la console, lorsque le logo FMBC s'affiche, maintenez le bouton que vous avez précédemment sélectionné jusqu'à ce que wLaunchELF démarre.
